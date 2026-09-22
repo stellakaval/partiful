@@ -1,0 +1,1 @@
+{"dependencies":{"cheerio":"^1.2.0","partiful-api":"^0.1.1"},"description":"Helper CLI for the Partiful skill (unofficial Partiful API wrapper)","name":"partiful-skill","private":true,"type":"module","version":"1.0.0"}
